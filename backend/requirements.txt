@@ -1,0 +1,7 @@
+torch
+numpy
+pillow
+requests
+torchvision
+ultralytics
+gradio
