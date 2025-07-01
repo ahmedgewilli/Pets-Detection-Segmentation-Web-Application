@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000"; // Make sure backend runs on port 5000
+const API_URL = "https://huggingface.co/spaces/Ahmedgewilli/pets-detection";
 
 export async function register(username, password) {
   const res = await fetch(`${API_URL}/register`, {
