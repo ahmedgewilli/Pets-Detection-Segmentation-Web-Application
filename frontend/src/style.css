@@ -1,0 +1,35 @@
+body {
+  background: #f4f8fb;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+form {
+  background: #fff;
+  padding: 20px;
+  margin: 20px auto;
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input, button {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background: #4CAF50;
+  color: white;
+  font-weight: bold;
+}
+
+.result-container {
+  background-color: #e8f5e9;
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
